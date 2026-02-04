@@ -2,3 +2,9 @@
 *.o
 z80_tests
 TODO
+
+# macos
+.DS_Store
+
+# cmake
+/build/
